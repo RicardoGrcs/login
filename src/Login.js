@@ -26,7 +26,7 @@ const Login = () => {
         </form>
         <i className="fas fa-key login-icon"></i>
       </div>
-      <h3 className="h2">¿Olvidaste tu contraseña?</h3>
+      <h3 className="h2 link">¿Olvidaste tu contraseña?</h3>
     </div>
   );
 };
