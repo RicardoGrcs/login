@@ -42,7 +42,7 @@ input {
   width: 300px;
 }
 
-h2 {
+.h2 {
   text-align: center;
   color: white;
   background-color: darkblue;

@@ -4,7 +4,7 @@ const Login = () => {
   return (
     <div className="container">
       <form className="login">
-        <h2>Login</h2>
+        <h2 className="h2">Login</h2>
         <label htmlFor="email" className="my">
           E-mail
           <input type="email" placeholder="Escribe aqui tu email" />
