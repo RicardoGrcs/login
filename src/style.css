@@ -1,15 +1,15 @@
 :root {
-  --color1: #33eaffff;
+  --color1: rgb(255, 201, 51);
   --color2: #ffffff83;
   --color3: #f44336ff;
   --color4: #ffffff;
   --color5: #373e46;
 }
 body {
-  background-color: var(--color5);
-  background-image: url("logo.svg");
-  background-repeat: repeat;
-  background-size: 200px;
+  /*background-color: var(--color5);*/
+  background-image: url("frutas-verduras.jpg");
+  background-repeat: repeat-x;
+  background-size: auto;
   background-position: center;
 }
 
@@ -47,7 +47,7 @@ body {
   justify-content: center;
   align-content: center;
   height: 100vh;
-  background-color: #373e46da;
+  background-color: #ffffffc2;
   align-items: center;
   flex-direction: column;
 }
